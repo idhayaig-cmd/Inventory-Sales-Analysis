@@ -11,7 +11,7 @@ Order Id, Order date, Customer name, State, City, Location, Category, Sub-Catego
 
 ## Description
 
-This Project uses a dataset contains information on "Sales and Order".The Aim of project is Data Cleaning ,Removing Duplicates,Inconsistent data to Cleart set dataset.In that Power query window how to calculate conditional formatting,to Group by,Count,Sum,Average,Remove Duplicates,null functions and Text string. using join and data modelelling.
+This Project uses a dataset contains information on "Sales and Order".The Aim of project is Data Cleaning ,Removing Duplicates,Inconsistent data to Cleart set dataset.In that Power query window how to calculate conditional formatting,to Group by,Count,Sum,Average,Remove Duplicates,null functions and Text string. using join and data modelling.
 
 ## Goal
 
